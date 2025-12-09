@@ -2,7 +2,7 @@
 
 **Data Analyst | Python • SQL • Excel • BI | Open to Remote Roles**
 
-I am a Data & Information Systems Specialist with over 10 years of experience analyzing financial, billing, and operational data. I help organizations turn complex datasets into actionable business insights using Python, SQL, Power BI, and Advanced Excel.
+I am a Data & Information Systems Specialist with over 10 years of experience analyzing billing, and operational data. I help organizations turn complex datasets into actionable business insights using Python, SQL, Power BI, and Advanced Excel.
 
 ---
 
