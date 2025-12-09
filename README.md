@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ibrahim Zimit 👋
 
-<!--
-**iyzimit/iyzimit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Python • SQL • Excel • BI | Open to Remote Roles**
 
-Here are some ideas to get you started:
+I am a Data & Information Systems Specialist with over 10 years of experience analyzing financial, billing, and operational data. I help organizations turn complex datasets into actionable business insights using Python, SQL, Power BI, and Advanced Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Core Skills
+- Python (Pandas, NumPy)
+- SQL (MySQL, PostgreSQL)
+- Power BI & Data Visualization
+- Advanced Excel (Power Query, PivotTables)
+- Data Cleaning, EDA & Reporting
+- Billing & Accounts Receivable (AR) Analysis
+
+---
+
+## 📊 Featured Projects
+- 🔹 **Electricity Billing & AR Analysis (Python)**  
+  Trend analysis, anomaly detection, and revenue insights  
+  👉 https://github.com/iyzimit/billing-ar-analysis
+
+---
+
+## 💼 Professional Experience
+- **Billing Analyst**  
+  Kano Electricity Distribution Company (KEDCO)
+
+---
+
+## 🌍 Open to Opportunities
+✅ Remote Data Analyst roles  
+✅ Python & BI consulting projects  
+
+📫 **Contact**
+- Email: your.email@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ibrahim-zimit-911b626/
+
+---
+
+⭐ *I enjoy solving real-world business problems with data and automation.*
