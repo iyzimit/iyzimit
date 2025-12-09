@@ -24,7 +24,7 @@ Analyze electricity billing AR data with trend visualization, anomaly detection,
 Web application for airtime, data, and utility payments with **Django, APIs, and Monnify integration**.
 
 ### [Data Cleaning & Automation Scripts](https://github.com/iyzimit/data-scripts) 🧹
-Automate data cleaning and preprocessing tasks using **Python & Pandas**.
+Automate data cleaning and preprocessing tasks using **Python & Pandas**
 
 ---
 
