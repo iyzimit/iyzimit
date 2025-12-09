@@ -34,7 +34,7 @@ I am a Data & Information Systems Specialist with over 10 years of experience an
 ✅ Python & BI consulting projects  
 
 📫 **Contact**
-- Email: your.email@gmail.com  
+- Email: iyzimit@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ibrahim-zimit-911b626/
 
 ---
