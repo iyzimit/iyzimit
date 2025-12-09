@@ -16,10 +16,15 @@ I am a Data & Information Systems Specialist with over 10 years of experience an
 
 ---
 
-## 📊 Featured Projects
-- 🔹 **Electricity Billing & AR Analysis (Python)**  
-  Trend analysis, anomaly detection, and revenue insights  
-  👉 https://github.com/iyzimit/billing-ar-analysis
+## 📂 Featured Projects
+### [Billing AR Analysis](https://github.com/iyzimit/billing-ar-analysis) 📊
+Analyze electricity billing AR data with trend visualization, anomaly detection, and interactive dashboards using **Python & Streamlit**.
+
+### [Virtual Top-Up Platform](https://github.com/iyzimit/vtu-platform) 💳
+Web application for airtime, data, and utility payments with **Django, APIs, and Monnify integration**.
+
+### [Data Cleaning & Automation Scripts](https://github.com/iyzimit/data-scripts) 🧹
+Automate data cleaning and preprocessing tasks using **Python & Pandas**.
 
 ---
 
