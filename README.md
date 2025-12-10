@@ -1,8 +1,8 @@
 # Hi, I'm Ibrahim Zimit 👋
 
-**Data Analyst | Python • SQL • Excel • BI | Open to Remote Roles**
+**Data Analyst and Information Systems Specialist | Python | SQL | Power BI | Excel | Pandas | Django | REST APIs | MySQL | Data Visualization | BI Reporting | Open to Remote Roles**
 
-I am a Data & Information Systems Specialist with over 10 years of experience analyzing billing, and operational data. I help organizations turn complex datasets into actionable business insights using Python, SQL, Power BI, and Advanced Excel.
+I am a Data and Information Systems Specialist with over 10 years of industry experience in data analysis, information systems, business intelligence, and web application development. Skilled in Python, SQL, Power BI, Excel, and Django, with a strong ability to transform complex data into actionable business insights. Proven track record in system optimization and reporting.
 
 ---
 
@@ -13,6 +13,8 @@ I am a Data & Information Systems Specialist with over 10 years of experience an
 - Advanced Excel (Power Query, PivotTables)
 - Data Cleaning, EDA & Reporting
 - Billing & Accounts Receivable (AR) Analysis
+- Web & API Development (Django, REST API, PHP)
+- Problem Solving & Critical Thinking
 
 ---
 
